@@ -1,0 +1,10 @@
+D:\_Programacion\killer_clock\bin\Debug\killer_clock.exe.config
+D:\_Programacion\killer_clock\bin\Debug\killer_clock.exe
+D:\_Programacion\killer_clock\bin\Debug\killer_clock.pdb
+D:\_Programacion\killer_clock\obj\Debug\killer_clock.csprojAssemblyReference.cache
+D:\_Programacion\killer_clock\obj\Debug\killer_clock.Form1.resources
+D:\_Programacion\killer_clock\obj\Debug\killer_clock.Properties.Resources.resources
+D:\_Programacion\killer_clock\obj\Debug\killer_clock.csproj.GenerateResource.cache
+D:\_Programacion\killer_clock\obj\Debug\killer_clock.csproj.CoreCompileInputs.cache
+D:\_Programacion\killer_clock\obj\Debug\killer_clock.exe
+D:\_Programacion\killer_clock\obj\Debug\killer_clock.pdb
